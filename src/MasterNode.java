@@ -1,7 +1,7 @@
 
 public class MasterNode {
 
-	public String nodeTag = "Master Node test for branch";
+	public String nodeTag = "Master Node test for branch one more";
 	
 	public void nodeInfo() {		
 		System.out.println("Node num = " + nodeTag);
